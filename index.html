@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows Service & Process Monitoring Agent</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            color: #172033;
+            line-height: 1.6;
+        }
+
+        header {
+            background: #172033;
+            color: white;
+            padding: 70px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 auto 15px;
+            font-size: 42px;
+            max-width: 900px;
+        }
+
+        header p {
+            margin: auto;
+            max-width: 760px;
+            font-size: 18px;
+            color: #d8deea;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .section {
+            background: white;
+            padding: 30px;
+            margin-bottom: 25px;
+            border-radius: 12px;
+            box-shadow: 0 3px 15px rgba(0,0,0,0.06);
+        }
+
+        h2 {
+            margin-top: 0;
+            color: #172033;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 18px;
+        }
+
+        .card {
+            border: 1px solid #e1e6ef;
+            border-radius: 10px;
+            padding: 20px;
+        }
+
+        .card h3 {
+            margin-top: 0;
+        }
+
+        ul {
+            padding-left: 22px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 12px 20px;
+            margin: 8px 8px 0 0;
+            border-radius: 8px;
+            background: #172033;
+            color: white;
+            text-decoration: none;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #667085;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 30px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Windows Service &amp; Process Monitoring Agent</h1>
+    <p>
+        A host-based Blue Team security monitoring agent for detecting
+        suspicious, unauthorized, and anomalous Windows process and service activity.
+    </p>
+</header>
+
+<div class="container">
+
+    <section class="section">
+        <h2>Project Overview</h2>
+        <p>
+            This project provides Windows endpoint visibility by monitoring active
+            processes, parent-child relationships, Windows services, startup services,
+            permissions, runtime activity, and suspicious process behavior.
+        </p>
+        <p>
+            The agent combines baseline comparison, rule-based detection,
+            behavioral indicators, signature verification, and centralized
+            detection to support defensive security monitoring.
+        </p>
+    </section>
+
+    <section class="section">
+        <h2>Key Capabilities</h2>
+
+        <div class="grid">
+            <div class="card">
+                <h3>Process Monitoring</h3>
+                <p>Collects process metadata including PID, PPID, executable path, username and status.</p>
+            </div>
+
+            <div class="card">
+                <h3>Process Tree Analysis</h3>
+                <p>Analyzes parent-child relationships and identifies suspicious execution chains.</p>
+            </div>
+
+            <div class="card">
+                <h3>Service Monitoring</h3>
+                <p>Audits Windows services, startup configurations and service changes.</p>
+            </div>
+
+            <div class="card">
+                <h3>Unauthorized Processes</h3>
+                <p>Uses whitelist, blacklist, baseline and suspicious-path rules.</p>
+            </div>
+
+            <div class="card">
+                <h3>Permission Analysis</h3>
+                <p>Reviews service security descriptors and potentially risky permissions.</p>
+            </div>
+
+            <div class="card">
+                <h3>Real-Time Monitoring</h3>
+                <p>Detects process creation and termination activity in real time.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Detection Coverage</h2>
+        <ul>
+            <li>Unauthorized and unknown process detection</li>
+            <li>New process baseline comparison</li>
+            <li>Suspicious parent-child process relationships</li>
+            <li>Windows service configuration auditing</li>
+            <li>Startup service monitoring</li>
+            <li>Service permission misconfiguration analysis</li>
+            <li>Process injection behavioral indicators</li>
+            <li>Unsigned or high-risk process detection</li>
+            <li>Real-time process monitoring</li>
+            <li>Centralized detection engine integration</li>
+        </ul>
+    </section>
+
+    <section class="section">
+        <h2>Technology Stack</h2>
+        <div class="grid">
+            <div class="card"><strong>Python</strong><br>Detection and monitoring logic</div>
+            <div class="card"><strong>psutil</strong><br>Process enumeration and runtime monitoring</div>
+            <div class="card"><strong>PowerShell / CIM</strong><br>Windows service enumeration</div>
+            <div class="card"><strong>Authenticode</strong><br>Process signature verification</div>
+        </div>
+    </section>
+
+    <section class="section">
+        <h2>Documentation &amp; Source</h2>
+
+        <a class="button"
+           href="https://github.com/Nainsee79/Windows-Service-Process-Monitor"
+           target="_blank">
+            GitHub Repository
+        </a>
+
+        <a class="button"
+           href="https://github.com/Nainsee79/Windows-Service-Process-Monitor/blob/main/FINAL_PROJECT_REPORT.md"
+           target="_blank">
+            Detailed Project Report
+        </a>
+
+        <a class="button"
+           href="https://github.com/Nainsee79/Windows-Service-Process-Monitor/blob/main/TESTING.md"
+           target="_blank">
+            Testing Documentation
+        </a>
+
+        <a class="button"
+           href="https://github.com/Nainsee79/Windows-Service-Process-Monitor/blob/main/DETECTION_RULES.md"
+           target="_blank">
+            Detection Rules
+        </a>
+    </section>
+
+    <section class="section">
+        <h2>Project Outcome</h2>
+        <p>
+            The completed toolkit demonstrates practical Blue Team techniques for
+            Windows endpoint monitoring, security baseline management, persistence
+            auditing, suspicious process analysis, and defensive detection engineering.
+        </p>
+    </section>
+
+</div>
+
+<footer>
+    Windows Service &amp; Process Monitoring Agent · Blue Team Security Project
+</footer>
+
+</body>
+</html>
