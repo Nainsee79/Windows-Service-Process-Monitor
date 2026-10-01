@@ -1,0 +1,437 @@
+{
+    "created_at": "2026-09-08T15:11:28.149371",
+    "processes": [
+        {
+            "name": "System Idle Process",
+            "path": "Unknown"
+        },
+        {
+            "name": "System",
+            "path": "Unknown"
+        },
+        {
+            "name": "Unknown",
+            "path": "Unknown"
+        },
+        {
+            "name": "Registry",
+            "path": "Registry"
+        },
+        {
+            "name": "pet.exe",
+            "path": "C:\\Users\\HP\\.vscode\\extensions\\ms-python.python-2026.4.0-win32-x64\\python-env-tools\\bin\\pet.exe"
+        },
+        {
+            "name": "smss.exe",
+            "path": "C:\\Windows\\System32\\smss.exe"
+        },
+        {
+            "name": "ipf_helper.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_fe2967a6eb0d3a7d\\ipf_helper.exe"
+        },
+        {
+            "name": "csrss.exe",
+            "path": "C:\\Windows\\System32\\csrss.exe"
+        },
+        {
+            "name": "wininit.exe",
+            "path": "C:\\Windows\\System32\\wininit.exe"
+        },
+        {
+            "name": "explorer.exe",
+            "path": "C:\\Windows\\explorer.exe"
+        },
+        {
+            "name": "svchost.exe",
+            "path": "C:\\Windows\\System32\\svchost.exe"
+        },
+        {
+            "name": "Code.exe",
+            "path": "C:\\Users\\HP\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe"
+        },
+        {
+            "name": "services.exe",
+            "path": "C:\\Windows\\System32\\services.exe"
+        },
+        {
+            "name": "RuntimeBroker.exe",
+            "path": "C:\\Windows\\System32\\RuntimeBroker.exe"
+        },
+        {
+            "name": "LsaIso.exe",
+            "path": "C:\\Windows\\System32\\LsaIso.exe"
+        },
+        {
+            "name": "lsass.exe",
+            "path": "C:\\Windows\\System32\\lsass.exe"
+        },
+        {
+            "name": "sihost.exe",
+            "path": "C:\\Windows\\System32\\sihost.exe"
+        },
+        {
+            "name": "WUDFHost.exe",
+            "path": "C:\\Windows\\System32\\WUDFHost.exe"
+        },
+        {
+            "name": "fontdrvhost.exe",
+            "path": "C:\\Windows\\System32\\fontdrvhost.exe"
+        },
+        {
+            "name": "chrome.exe",
+            "path": "C:\\Users\\HP\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe"
+        },
+        {
+            "name": "AppActions.exe",
+            "path": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe"
+        },
+        {
+            "name": "OmenInstallMonitor.exe",
+            "path": "C:\\Program Files\\HP\\OmenInstallMonitor\\OmenInstallMonitor.exe"
+        },
+        {
+            "name": "SnippingTool.exe",
+            "path": "C:\\Program Files\\WindowsApps\\Microsoft.ScreenSketch_11.2605.38.0_x64__8wekyb3d8bbwe\\SnippingTool\\SnippingTool.exe"
+        },
+        {
+            "name": "IntelCpHDCPSvc.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\iigd_dch.inf_amd64_64dc54263337697d\\IntelCpHDCPSvc.exe"
+        },
+        {
+            "name": "WmiPrvSE.exe",
+            "path": "C:\\Windows\\System32\\wbem\\WmiPrvSE.exe"
+        },
+        {
+            "name": "SearchHost.exe",
+            "path": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe"
+        },
+        {
+            "name": "WidgetService.exe",
+            "path": "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe"
+        },
+        {
+            "name": "CodeSetup-stable-a44adf7f53e00964ab890f9f8758a334f1fc15bc.tmp",
+            "path": "C:\\Users\\HP\\AppData\\Local\\Temp\\is-P2V7E.tmp\\CodeSetup-stable-a44adf7f53e00964ab890f9f8758a334f1fc15bc.tmp"
+        },
+        {
+            "name": "ApplicationFrameHost.exe",
+            "path": "C:\\Windows\\System32\\ApplicationFrameHost.exe"
+        },
+        {
+            "name": "MemCompression",
+            "path": "MemCompression"
+        },
+        {
+            "name": "dasHost.exe",
+            "path": "C:\\Windows\\System32\\dasHost.exe"
+        },
+        {
+            "name": "TouchpointAnalyticsClientService.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpanalyticscomp.inf_amd64_ef460d1f2a35fc16\\x64\\TouchpointAnalyticsClientService.exe"
+        },
+        {
+            "name": "DiagsCap.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\DiagsCap.exe"
+        },
+        {
+            "name": "AppHelperCap.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\AppHelperCap.exe"
+        },
+        {
+            "name": "NetworkCap.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\NetworkCap.exe"
+        },
+        {
+            "name": "SysInfoCap.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\SysInfoCap.exe"
+        },
+        {
+            "name": "SearchProtocolHost.exe",
+            "path": "C:\\Windows\\System32\\SearchProtocolHost.exe"
+        },
+        {
+            "name": "vmcompute.exe",
+            "path": "C:\\Windows\\System32\\vmcompute.exe"
+        },
+        {
+            "name": "unsecapp.exe",
+            "path": "C:\\Windows\\System32\\wbem\\unsecapp.exe"
+        },
+        {
+            "name": "spoolsv.exe",
+            "path": "C:\\Windows\\System32\\spoolsv.exe"
+        },
+        {
+            "name": "ipf_uf.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_fe2967a6eb0d3a7d\\ipf_uf.exe"
+        },
+        {
+            "name": "ipfsvc.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dtt_sw.inf_amd64_683097297aaa9bb4\\ipfsvc.exe"
+        },
+        {
+            "name": "ShellExperienceHost.exe",
+            "path": "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe"
+        },
+        {
+            "name": "HPPrintScanDoctorService.exe",
+            "path": "C:\\Program Files\\HPPrintScanDoctor\\HPPrintScanDoctorService.exe"
+        },
+        {
+            "name": "AnyDesk.exe",
+            "path": "C:\\Program Files (x86)\\AnyDesk\\AnyDesk.exe"
+        },
+        {
+            "name": "ETDService.exe",
+            "path": "C:\\Windows\\System32\\ETDService.exe"
+        },
+        {
+            "name": "IntelAudioService.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\intcoed.inf_amd64_33284f5d2f7b1562\\AS\\IAS\\IntelAudioService.exe"
+        },
+        {
+            "name": "jhi_service.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\dal.inf_amd64_af50fdb80983f7bc\\jhi_service.exe"
+        },
+        {
+            "name": "HPCommRecovery.exe",
+            "path": "C:\\Program Files\\HPCommRecovery\\HPCommRecovery.exe"
+        },
+        {
+            "name": "OneApp.IGCC.WinService.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\igcc_dch.inf_amd64_8660e4d6e8832471\\OneApp.IGCC.WinService.exe"
+        },
+        {
+            "name": "audiodg.exe",
+            "path": "C:\\Windows\\System32\\audiodg.exe"
+        },
+        {
+            "name": "servicehost.exe",
+            "path": "C:\\Program Files\\McAfee\\WebAdvisor\\servicehost.exe"
+        },
+        {
+            "name": "mc-fw-host.exe",
+            "path": "C:\\Program Files\\McAfee\\WPS\\1.40.161.1\\mc-fw-host.exe"
+        },
+        {
+            "name": "OneDrive.Sync.Service.exe",
+            "path": "C:\\Program Files\\Microsoft OneDrive\\26.153.0809.0004\\OneDrive.Sync.Service.exe"
+        },
+        {
+            "name": "msedgewebview2.exe",
+            "path": "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\152.0.4191.62\\msedgewebview2.exe"
+        },
+        {
+            "name": "mysqld.exe",
+            "path": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe"
+        },
+        {
+            "name": "pg_ctl.exe",
+            "path": "C:\\Program Files\\PostgreSQL\\17\\bin\\pg_ctl.exe"
+        },
+        {
+            "name": "RtkAudUService64.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_c7598999a3513b7d\\RtkAudUService64.exe"
+        },
+        {
+            "name": "RtkBtManServ.exe",
+            "path": "C:\\Windows\\RtkBtManServ.exe"
+        },
+        {
+            "name": "OmenCommandCenterBackground.exe",
+            "path": "C:\\Program Files\\WindowsApps\\AD2F1837.OMENCommandCenter_1101.2608.1.0_x64__v10z8vjag6ke6\\OmenCommandCenterApp\\OmenCommandCenterBackground.exe"
+        },
+        {
+            "name": "SECOMN64.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\seapo64.inf_amd64_deaeb20891c6fa3a\\SECOMN64.exe"
+        },
+        {
+            "name": "WMIRegistrationService.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\mewmiprov.inf_amd64_d51901c26227fb29\\WMIRegistrationService.exe"
+        },
+        {
+            "name": "CodeSetup-stable-a44adf7f53e00964ab890f9f8758a334f1fc15bc.exe",
+            "path": "C:\\Users\\HP\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-a44adf7f53e00964ab890f9f8758a334f1fc15bc.exe"
+        },
+        {
+            "name": "BridgeCommunication.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\hpcustomcapcomp.inf_amd64_166246cb8bd387ff\\x64\\BridgeCommunication.exe"
+        },
+        {
+            "name": "LockApp.exe",
+            "path": "C:\\Windows\\SystemApps\\Microsoft.LockApp_cw5n1h2txyewy\\LockApp.exe"
+        },
+        {
+            "name": "conhost.exe",
+            "path": "C:\\Windows\\System32\\conhost.exe"
+        },
+        {
+            "name": "postgres.exe",
+            "path": "C:\\Program Files\\PostgreSQL\\17\\bin\\postgres.exe"
+        },
+        {
+            "name": "bash.exe",
+            "path": "C:\\Program Files\\Git\\usr\\bin\\bash.exe"
+        },
+        {
+            "name": "armsvc.exe",
+            "path": "C:\\Program Files (x86)\\Common Files\\Adobe\\ARM\\1.0\\armsvc.exe"
+        },
+        {
+            "name": "AggregatorHost.exe",
+            "path": "C:\\Windows\\System32\\AggregatorHost.exe"
+        },
+        {
+            "name": "OfficeClickToRun.exe",
+            "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\OfficeClickToRun.exe"
+        },
+        {
+            "name": "FileCoAuth.exe",
+            "path": "C:\\Program Files\\Microsoft OneDrive\\26.153.0809.0004\\FileCoAuth.exe"
+        },
+        {
+            "name": "browserhost.exe",
+            "path": "C:\\Program Files\\McAfee\\WebAdvisor\\browserhost.exe"
+        },
+        {
+            "name": "SystemOptimizer.exe",
+            "path": "C:\\Program Files\\HP\\SystemOptimizer\\SystemOptimizer.exe"
+        },
+        {
+            "name": "uihost.exe",
+            "path": "C:\\Program Files\\McAfee\\WebAdvisor\\uihost.exe"
+        },
+        {
+            "name": "ETDCtrl.exe",
+            "path": "C:\\Windows\\System32\\ETDCtrl.exe"
+        },
+        {
+            "name": "cowork-svc.exe",
+            "path": "C:\\Program Files\\WindowsApps\\Claude_1.30096.5.0_x64__pzs8sxrjxfjjc\\app\\resources\\cowork-svc.exe"
+        },
+        {
+            "name": "MpDefenderCoreService.exe",
+            "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.3-0\\MpDefenderCoreService.exe"
+        },
+        {
+            "name": "SearchIndexer.exe",
+            "path": "C:\\Windows\\System32\\SearchIndexer.exe"
+        },
+        {
+            "name": "MsMpEng.exe",
+            "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.3-0\\MsMpEng.exe"
+        },
+        {
+            "name": "python.exe",
+            "path": "C:\\Users\\HP\\OneDrive\\Documents\\Custom Office Templates\\Desktop\\Windows-Service-Process-Monitor\\venv\\Scripts\\python.exe"
+        },
+        {
+            "name": "cmd.exe",
+            "path": "C:\\Windows\\System32\\cmd.exe"
+        },
+        {
+            "name": "CrossDeviceService.exe",
+            "path": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.26071.84.0_x64__cw5n1h2txyewy\\CrossDeviceService.exe"
+        },
+        {
+            "name": "dwm.exe",
+            "path": "C:\\Windows\\System32\\dwm.exe"
+        },
+        {
+            "name": "mc-extn-browserhost.exe",
+            "path": "C:\\Program Files\\McAfee\\WPS\\1.40.161.1\\extnhost\\mc-extn-browserhost.exe"
+        },
+        {
+            "name": "bash.exe",
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe"
+        },
+        {
+            "name": "AppVShNotify.exe",
+            "path": "C:\\Program Files\\Common Files\\microsoft shared\\ClickToRun\\AppVShNotify.exe"
+        },
+        {
+            "name": "ctfmon.exe",
+            "path": "C:\\Windows\\System32\\ctfmon.exe"
+        },
+        {
+            "name": "backgroundTaskHost.exe",
+            "path": "C:\\Windows\\System32\\backgroundTaskHost.exe"
+        },
+        {
+            "name": "CrossDeviceResume.exe",
+            "path": "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe"
+        },
+        {
+            "name": "ShellHost.exe",
+            "path": "C:\\Windows\\System32\\ShellHost.exe"
+        },
+        {
+            "name": "HPMediaNetwork.exe",
+            "path": "C:\\Program Files\\HP\\HP Media Network\\HPMediaNetwork.exe"
+        },
+        {
+            "name": "WidgetBoard.exe",
+            "path": "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\\WidgetBoard.exe"
+        },
+        {
+            "name": "UserOOBEBroker.exe",
+            "path": "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe"
+        },
+        {
+            "name": "mc-neo-host.exe",
+            "path": "C:\\ProgramData\\McAfee\\WPS\\content\\neo-core\\26.7.0.146\\mc-neo-host.exe"
+        },
+        {
+            "name": "MicrosoftStartFeedProvider.exe",
+            "path": "C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\\MicrosoftStartFeedProvider\\MicrosoftStartFeedProvider.exe"
+        },
+        {
+            "name": "NisSrv.exe",
+            "path": "C:\\ProgramData\\Microsoft\\Windows Defender\\Platform\\4.18.26080.3-0\\NisSrv.exe"
+        },
+        {
+            "name": "SecurityHealthSystray.exe",
+            "path": "C:\\Windows\\System32\\SecurityHealthSystray.exe"
+        },
+        {
+            "name": "python.exe",
+            "path": "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+        },
+        {
+            "name": "taskhostw.exe",
+            "path": "C:\\Windows\\System32\\taskhostw.exe"
+        },
+        {
+            "name": "StartMenuExperienceHost.exe",
+            "path": "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe"
+        },
+        {
+            "name": "SecurityHealthService.exe",
+            "path": "C:\\Windows\\System32\\SecurityHealthService.exe"
+        },
+        {
+            "name": "SystemSettings.exe",
+            "path": "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe"
+        },
+        {
+            "name": "SECOCL64.exe",
+            "path": "C:\\Windows\\System32\\DriverStore\\FileRepository\\seapo64.inf_amd64_deaeb20891c6fa3a\\SECOCL64.exe"
+        },
+        {
+            "name": "OverlayHelper.exe",
+            "path": "C:\\Program Files\\HP\\Overlay\\OverlayHelper.exe"
+        },
+        {
+            "name": "HPSystemEventUtilityBackground.exe",
+            "path": "C:\\Program Files\\WindowsApps\\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\\SystemEventUtility\\HPSystemEventUtilityBackground.exe"
+        },
+        {
+            "name": "HPSystemEventUtilityHost.exe",
+            "path": "C:\\Program Files\\WindowsApps\\AD2F1837.HPSystemEventUtility_3.2.24.0_x64__v10z8vjag6ke6\\SystemEventUtility\\HPSystemEventUtilityHost.exe"
+        },
+        {
+            "name": "winlogon.exe",
+            "path": "C:\\Windows\\System32\\winlogon.exe"
+        }
+    ]
+}

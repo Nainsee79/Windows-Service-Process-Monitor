@@ -1,0 +1,27 @@
+{
+    "whitelist": [
+        "explorer.exe",
+        "svchost.exe",
+        "services.exe",
+        "lsass.exe",
+        "winlogon.exe",
+        "csrss.exe",
+        "smss.exe",
+        "system.exe",
+        "chrome.exe",
+        "msedge.exe",
+        "firefox.exe",
+        "code.exe"
+    ],
+    "blacklist": [
+        "mimikatz.exe",
+        "psexec.exe",
+        "procdump.exe"
+    ],
+    "suspicious_directories": [
+        "\\AppData\\Local\\Temp\\",
+        "\\AppData\\Roaming\\",
+        "\\Windows\\Temp\\",
+        "\\Users\\Public\\"
+    ]
+}
